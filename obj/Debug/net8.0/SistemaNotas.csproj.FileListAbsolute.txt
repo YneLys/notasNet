@@ -1,0 +1,14 @@
+C:\Users\lorrayne.pinheiro\Documents\projetos\notasNet\SistemaNotas\bin\Debug\net8.0\SistemaNotas.exe
+C:\Users\lorrayne.pinheiro\Documents\projetos\notasNet\SistemaNotas\bin\Debug\net8.0\SistemaNotas.deps.json
+C:\Users\lorrayne.pinheiro\Documents\projetos\notasNet\SistemaNotas\bin\Debug\net8.0\SistemaNotas.runtimeconfig.json
+C:\Users\lorrayne.pinheiro\Documents\projetos\notasNet\SistemaNotas\bin\Debug\net8.0\SistemaNotas.dll
+C:\Users\lorrayne.pinheiro\Documents\projetos\notasNet\SistemaNotas\bin\Debug\net8.0\SistemaNotas.pdb
+C:\Users\lorrayne.pinheiro\Documents\projetos\notasNet\SistemaNotas\obj\Debug\net8.0\SistemaNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorrayne.pinheiro\Documents\projetos\notasNet\SistemaNotas\obj\Debug\net8.0\SistemaNotas.AssemblyInfoInputs.cache
+C:\Users\lorrayne.pinheiro\Documents\projetos\notasNet\SistemaNotas\obj\Debug\net8.0\SistemaNotas.AssemblyInfo.cs
+C:\Users\lorrayne.pinheiro\Documents\projetos\notasNet\SistemaNotas\obj\Debug\net8.0\SistemaNotas.csproj.CoreCompileInputs.cache
+C:\Users\lorrayne.pinheiro\Documents\projetos\notasNet\SistemaNotas\obj\Debug\net8.0\SistemaNotas.dll
+C:\Users\lorrayne.pinheiro\Documents\projetos\notasNet\SistemaNotas\obj\Debug\net8.0\refint\SistemaNotas.dll
+C:\Users\lorrayne.pinheiro\Documents\projetos\notasNet\SistemaNotas\obj\Debug\net8.0\SistemaNotas.pdb
+C:\Users\lorrayne.pinheiro\Documents\projetos\notasNet\SistemaNotas\obj\Debug\net8.0\SistemaNotas.genruntimeconfig.cache
+C:\Users\lorrayne.pinheiro\Documents\projetos\notasNet\SistemaNotas\obj\Debug\net8.0\ref\SistemaNotas.dll
